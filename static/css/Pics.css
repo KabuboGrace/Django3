@@ -1,0 +1,14 @@
+.cat1{
+    width: 50vw;
+
+}
+
+
+.cat2{
+    width: 50vw;
+
+}
+
+.cat1 img, .cat2 img{
+    width: 100%;
+}
